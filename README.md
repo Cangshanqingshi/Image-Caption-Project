@@ -1,5 +1,6 @@
 # Image Caption Project（看图说话）
 这是用pytorch完成的简单image caption模型，结构是CNN-RNN的形式，数据集为COCO2017，CNN用的是ResNet50,RNN用的是LSTM。
+
 This repository is a recurrency of this article: [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555).The tutorial mainly referred to is [mxagar's tutorial](https://github.com/mxagar/image_captioning). If you want to take a very usful lesson, I strongly suggest you to see this tutorial. But if you just need to finish your final project and so on, you can see this repository. This markdown file can be divided into four parts as below: [Dataset and COCOAPI](Dataset and COCOAPI), [Data loader](Data loader), [Model](Model), [Result](Result).
 
 PS:I'm not a native English speaker, so if there are some gramma or spellling errors in this text, please don't care about them, Thanks!
